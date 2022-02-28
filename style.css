@@ -67,12 +67,143 @@ body{
     color: white;
     position: absolute;
 }
+
+}
 .hand{
 	position: absolute;
     margin-left: 80px;
     margin-top: -54px;
+   background-color: red;
+   color: red;
 }
 .foto{
 	margin-left: 1000px;
     margin-top: -500px;
+
+}
+.sect{
+	width: 1920px;
+	height: 1444px;
+}
+.P4{
+	color: #3D37F1;
+    margin-left: 850px;
+    font-size: 20px;
+   
+}
+.p5{
+	color: #5A5454;
+	font-size: 40px;
+    margin-left: 670px;
+    margin-bottom: -10px;
+    margin-top: 30px;
+}
+.p6{
+	width: 712px;
+	height: 85px;
+	font-size: 18;
+	color: #747474;
+    margin-left: 580px;
+    margin-bottom: -60px;
+    text-indent: 50px;   
+    margin-top: 30px;
+}
+.p7{
+   font-size: 18px;
+   color:#747474 ;
+   margin-left: 640px;
+   margin-top: -30px;
+}
+.miniboxs{
+	position: relative;
+	width: 1500px;
+	height: 480px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.mini1{
+	width: 370px;
+	height: 451px;
+	background-color: #FBBA77;
+    position: absolute;
+    
+}
+.comp{
+	margin-left: 130px;
+	margin-top: 100px;
+}
+
+.p8{
+	color: #FFFFFF;
+	font-size: 22px;
+    margin-left:130px ;
+    margin-top: 50px;
+}
+.p9{
+	 text-indent: 50px; 
+     margin-top: 20px;    
+
+}
+.p10{
+	margin-left: 47px;
+}
+.q1{
+    width: 131px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    margin-top: 40px;
+    margin-left: 115px;
+}
+.q2{
+	width: 72px;
+	height: 18px;
+	font-size: 15px;
+	color: #4B647E;
+    margin-left: 33px;
+    margin-bottom: -30px;
+
+}
+.mini2{
+	width: 370px;
+	height: 451px;
+	background-color: #41EAE3;
+    position: absolute;
+    margin-left: 400px;
+}
+
+.brush{
+	margin-left: 130px;
+	margin-top: 100px;
+}  
+
+.q3{
+	color: #FFFFFF;
+	font-size: 22px;
+    margin-left:130px ;
+    margin-top: 50px;
+}
+.q4{
+	 text-indent: 50px; 
+     margin-top: 20px;   
+}
+.q5{
+	margin-left: 47px;
+}
+.q7{
+	 width: 131px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: #41EAE3;
+    margin-top: 40px;
+    margin-left: 115px;
+    border: solid;
+}
+.q6{
+	width: 72px;
+	height: 18px;
+	font-size: 15px;
+	color: white;
+    margin-left: 33px;
+    margin-bottom: -30px;
 }
